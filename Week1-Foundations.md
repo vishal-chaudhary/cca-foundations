@@ -1,3 +1,11 @@
+---
+layout: default
+title: Week 1 — Foundations
+description: Claude API, LLM Basics & Environment Setup
+---
+
+[← Back to Study Plan](index.md)
+
 # Week 1 — Foundations: Claude API, LLM Basics & Environment Setup
 
 **Duration:** 6–8 hours  

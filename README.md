@@ -1,3 +1,9 @@
+---
+layout: default
+title: Claude Certified Architect – Foundations (CCA-F)
+description: 7-Week exam prep guide for the CCA-F certification
+---
+
 # Claude Certified Architect – Foundations (CCA-F)
 ### 7-Week Exam Prep Guide
 

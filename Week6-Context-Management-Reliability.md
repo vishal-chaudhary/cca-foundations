@@ -1,3 +1,11 @@
+---
+layout: default
+title: Week 6 — Context Management & Reliability
+description: Domain 5 — 15% of the exam
+---
+
+[← Back to Study Plan](index.md)
+
 # Week 6 — Domain 5: Context Management & Reliability (15%)
 
 **Duration:** 6–8 hours  

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Week 5 — Prompt Engineering & Structured Output
+description: Domain 4 — 20% of the exam
+---
+
+[← Back to Study Plan](index.md)
+
 # Week 5 — Domain 4: Prompt Engineering & Structured Output (20%)
 
 **Duration:** 6–8 hours  

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Week 4 — Claude Code Configuration & Workflows
+description: Domain 3 — 20% of the exam
+---
+
+[← Back to Study Plan](index.md)
+
 # Week 4 — Domain 3: Claude Code Configuration & Workflows (20%)
 
 **Duration:** 6–8 hours  

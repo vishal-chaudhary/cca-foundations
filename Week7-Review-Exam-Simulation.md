@@ -1,3 +1,11 @@
+---
+layout: default
+title: Week 7 — Review & Exam Simulation
+description: Full review, practice questions, and exam simulation
+---
+
+[← Back to Study Plan](index.md)
+
 # Week 7 — Review, Practice Questions & Exam Simulation
 
 **Duration:** 6–8 hours  

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Week 3 — Tool Design & MCP Integration
+description: Domain 2 — 18% of the exam
+---
+
+[← Back to Study Plan](index.md)
+
 # Week 3 — Domain 2: Tool Design & MCP Integration (18%)
 
 **Duration:** 6–8 hours  
