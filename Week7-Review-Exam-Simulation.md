@@ -4,7 +4,7 @@ title: Week 7 — Review & Exam Simulation
 description: Full review, practice questions, and exam simulation
 ---
 
-[← Back to Study Plan](index.md)
+[← Back to Study Plan](./)
 
 # Week 7 — Review, Practice Questions & Exam Simulation
 

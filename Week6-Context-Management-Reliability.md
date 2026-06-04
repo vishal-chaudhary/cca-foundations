@@ -4,7 +4,7 @@ title: Week 6 — Context Management & Reliability
 description: Domain 5 — 15% of the exam
 ---
 
-[← Back to Study Plan](index.md)
+[← Back to Study Plan](./)
 
 # Week 6 — Domain 5: Context Management & Reliability (15%)
 

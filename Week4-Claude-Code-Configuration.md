@@ -4,7 +4,7 @@ title: Week 4 — Claude Code Configuration & Workflows
 description: Domain 3 — 20% of the exam
 ---
 
-[← Back to Study Plan](index.md)
+[← Back to Study Plan](./)
 
 # Week 4 — Domain 3: Claude Code Configuration & Workflows (20%)
 

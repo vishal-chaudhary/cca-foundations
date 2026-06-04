@@ -4,7 +4,7 @@ title: Week 2 — Agentic Architecture & Orchestration
 description: Domain 1 — 27% of the exam
 ---
 
-[← Back to Study Plan](index.md)
+[← Back to Study Plan](./)
 
 # Week 2 — Domain 1: Agentic Architecture & Orchestration (27%)
 

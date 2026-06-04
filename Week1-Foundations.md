@@ -4,7 +4,7 @@ title: Week 1 — Foundations
 description: Claude API, LLM Basics & Environment Setup
 ---
 
-[← Back to Study Plan](index.md)
+[← Back to Study Plan](./)
 
 # Week 1 — Foundations: Claude API, LLM Basics & Environment Setup
 
